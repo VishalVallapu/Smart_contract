@@ -1,2 +1,2 @@
 # Smart_contract
-Smart contract to mint coins in solidity, send and receive cypto coins using remix IDE, Ganache
+Solidity for implementing smart contract, Remix IDE to write/debug contract for minting, sending,receiving and checking balance of coins. Used Ganache to simulate blockchain.
